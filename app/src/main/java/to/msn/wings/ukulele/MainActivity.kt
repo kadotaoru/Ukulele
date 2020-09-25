@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity(), SurfaceHolder.Callback {
     private var screenHeight: Int = 0
     private var diffY: Int = 0
 
-    // 13音mjmj
+    // 13音mjmjii
     private var c: MediaPlayer = MediaPlayer()
     private var cs: MediaPlayer = MediaPlayer()
     private var d: MediaPlayer = MediaPlayer()

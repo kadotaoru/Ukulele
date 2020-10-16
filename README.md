@@ -1,7 +1,7 @@
 # ウクレレ
 
 - 実行動画
-https://www.youtube.com/watch?v=nUE5ORBlGbM
+https://youtu.be/nUE5ORBlGbM
 
 ## 🗻Tech
 - 開発言語：Kotlin

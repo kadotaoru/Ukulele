@@ -4,7 +4,7 @@
 https://youtu.be/nUE5ORBlGbM
 
 ## 🗻Tech
-- 開発言語：Kotlin
+- 開発言語：Kotlin　
 
 ## 📱About App
 - ウクレレのアプリ

@@ -2,7 +2,7 @@
 
 - 実行動画
 https://youtu.be/nUE5ORBlGbM
-
+　
 ## 🗻Tech
 - 開発言語：Kotlin　
 
